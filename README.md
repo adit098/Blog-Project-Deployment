@@ -2,7 +2,7 @@
 
 ![Image](mysite/Output%20Image/About.png)<br><br>
 
-![Image](mysite/Output%20Image/Login%20Page.png)<br><br>
+![Image](mysite/Output%20Image/LogIn%20Page.png)<br><br>
 
 ![Image](mysite/Output%20Image/Post.png)<br><br>
 
